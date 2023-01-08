@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Fine Dining Restaurant Website
+
+This is a website created with React for a fine dining restaurant. You can check the full project out at http://fine-restaurant-5mmb848bt-snupeyrn.vercel.app
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
